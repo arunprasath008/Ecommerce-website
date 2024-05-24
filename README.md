@@ -74,12 +74,6 @@ Start the server
 npm run dev
 ```
 
-## Inspiration and Credits
-
-Even though I wrote every single line of code for this web app, images and some design are inspired and used from the following websites.
-
-- [Goya WordPress Premium Theme](https://goya.everthemes.com/demo-fashion/)
-- [Lusion WordPress Premium Theme](https://hn.arrowpress.net/lusion/home-minimalist/?currency=USD)
 
 ## Author
 
